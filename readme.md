@@ -1,7 +1,7 @@
 # Conway's Game of Life
 ## C# Console App (.NET Framework)
-## A zero-player game based on Conway's algorithm.
-## This version starts with random "live" cells.
+## To see code, open the folder and then "Program.cs."
+## A zero-player game based on Conway's algorithm. This version starts with random "live" cells.
 
 ![](example.gif)
 
